@@ -1,0 +1,35 @@
+form {
+	width: 600px;
+}
+.form-inline > #color{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.form-inline > #color input {
+	width: 130px;
+}
+
+.form-inline > #color #lbcolor1{
+	padding-left: 15px;
+}
+
+.form-inline > #color #lbcolor2{
+	/*width: 100px;*/
+	float: right;
+	padding-left: 10px;
+
+}
+
+#div-select > div {
+	padding-left: 13px;
+	padding-right: 0px;
+}
+
+#div-radio > #lbradio1{
+	padding-right: 15px;
+}
+
+#div-radio span{
+	padding-left: 0px;
+}
