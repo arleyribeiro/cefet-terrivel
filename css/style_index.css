@@ -1,48 +1,42 @@
 form {
-	width: 600px;
+	width: 550px;
 	margin: 0 auto;
 	padding: 0 auto;
-}
-.col-sm-offset-0 {
-	padding-right: 5px;
-}
-.form-inline  #div-radio{
-	padding-top: 15px;
-	padding-left: 0px;
+	border: 1px solid;
 }
 
 .form-inline > #color{
-	padding-left: 0px;
+	padding-left: 5px;
 	padding-right: 0px;
 	padding-top: 15px;
 }
 
-.form-inline > #color span{
-	padding-top: 7px;
-}
 
 .form-inline > #color input {
-	width: 130px;
+	width: 120px;
 }
 
 .form-inline  #color p {
 	padding-left: 0px;
 }
 
-.form-inline > #color #lbcolor2{
-	/*width: 100px;*/
+.form-inline  #color #lbcolor2{
 	float: right;
 	padding-left: 10px;
 
 }
 
 #div-select {
-	padding-left: 0px;
+	padding-left: 5px;
 	padding-right: 0px;
 }
 
+.form-inline  #div-radio{
+	padding-left: 5px;
+}
+
 #div-radio > #lbradio1{
-	padding-right: 15px;
+	padding-right: 10px;
 }
 
 #div-radio span{
@@ -51,7 +45,6 @@ form {
 
 #div-btn {
 	padding-top: 15px;
-	padding-right: 0px;
-	float: right;
+	padding-left: 0px;
 }
 
