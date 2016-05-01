@@ -1,7 +1,9 @@
 # _Exercicio_
 
-- <div style="float: right; width: 120px; height: 160px; background-image: url('../img/monstro-terrivel.png')"></div>
   Conheça o <span style="font-family: 'Ravie', serif; text-shadow: 2px 2px rgb(102, 102, 102)">Incrível <span style="color: #00FF21">Monstro Verde</style> que Come Pedras e Mora Debaixo da Terra</span>
+
+![](img/monstro-terrivel.png)
+
 - Objetivo:
   1. Dar comida para o terrível monstro verde (etc. etc.)
   1. Entender o funcionamento de um formulário web
@@ -33,6 +35,16 @@ Para dar comida a ele, você deve encomendá-las a partir de um formulário html
   tipo de dados que você precisa representar, _e.g._,
   - `<input type="cor">` para as cores do céu
 - O formulário deve ter **validação de acordo com o domínio de cada campo**
+
+## Resultados
+
+- Método GET
+
+![](img/terrivel-get.png)
+
+- Método POST
+
+![](img/terrivel-post.png)
 
 ## Referências
 
