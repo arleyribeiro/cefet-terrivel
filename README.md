@@ -36,6 +36,6 @@ Para dar comida a ele, você deve encomendá-las a partir de um formulário html
 
 ## Referências
 
--[Github - fegemo/cefet-web][page-1]
+- [Github - fegemo/cefet-web][page-1]
 
 [page-1]: https://github.com/fegemo/cefet-web/blob/master/classes/html5/README.md#exercício
